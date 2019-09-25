@@ -1,0 +1,16 @@
+Ejercicios:
+
+1) A-B/(C*D$E)
+SOLUCION:
+= A-B/(C*DE$).............POTENCIA "$"
+= A-B/(CDE$*).............PRODUCTO "*"
+= A-B(CDE$*)/.............COCIENTE "/"
+= AB-(CDE$*)/.............RESTA "-"
+= AB(CDE$*)/-.............RESTA "-"
+
+2)((A+B)*C-(D-E))$(F+G)
+SOLUCION:
+= ((A+B)*C-(D-E))(F+G)$.............POTENCIA "$"
+= ((A+B)C*-(D-E))(F+G)$.............PRODUCTO "*"
+= ((AB+)C*-(DE-))(FG+)$.............PARENTESIS
+= ((AB+)C*(DE-)-)(FG+)$.............RESTA "-"
